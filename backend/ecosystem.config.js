@@ -6,7 +6,7 @@ const {
 
 module.exports = {
   apps: [{
-    name: 'api-service',
+    name: 'mesto',
     script: 'dist/app.js',
   }],
 
